@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Zeronetsec
+# https://github.com/Senzdetta/Senzdetta
 
 from datetime import datetime
 from utils.color import Color
@@ -12,4 +12,4 @@ class Birthday:
             print(f"{Color.R}› {Color.N}Happy birthday for {Color.GG}Senzdetta {Color.N}🎉")
             print()
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

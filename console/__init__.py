@@ -1,2 +1,2 @@
-# https://github.com/Zeronetsec/Zeronetsec
-# Copyright (c) 2026 Zeronetsec
+# https://github.com/Senzdetta/Senzdetta
+# Copyright (c) 2026 Senzdetta

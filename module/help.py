@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Zeronetsec
+# https://github.com/Senzdetta/Senzdetta
 
 import os
 import glob
@@ -52,4 +52,4 @@ class Help:
             except (json.JSONDecodeError, IOError):
                 continue
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

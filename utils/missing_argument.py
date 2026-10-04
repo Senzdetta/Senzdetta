@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Zeronetsec
+# https://github.com/Senzdetta/Senzdetta
 
 import sys
 from utils.color import Color
@@ -10,4 +10,4 @@ class MissingArgument:
         print(f"{Color.R}[!] {Color.N}Try: {Color.GG}senzdetta --help{Color.N}")
         sys.exit(1)
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

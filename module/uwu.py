@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Zeronetsec
+# https://github.com/Senzdetta/Senzdetta
 
 import time
 import sys
@@ -37,4 +37,4 @@ class Uwu:
             sys.stdout.write("\n")
             sys.stdout.flush()
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

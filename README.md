@@ -1,5 +1,3 @@
-<!-- https://github.com/Senzdetta/Senzdetta -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=180&text=Senzdetta&fontSize=45&fontColor=c0caf5&fontAlignY=30&animation=twinkling&desc=Returning%20to%20the%20essence%20of%20a%20hobby.&descSize=20&descAlignY=50&descColor=7dcfff&section=header" width="100%" />
 
 <div align="center">
@@ -32,5 +30,3 @@ I don't really care about **"industry standards"**. </br>
 <code>“Still running, still learning...”</code>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer" width="100%" />
-
-<!-- Copyright (c) 2026 Senzdetta -->

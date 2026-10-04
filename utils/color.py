@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Zeronetsec
+# https://github.com/Senzdetta/Senzdetta
 
 class Color:
     N = '\x1b[0m'
@@ -9,4 +9,4 @@ class Color:
     WW = '\x1b[0;37m'
     CC = '\x1b[0;36m'
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

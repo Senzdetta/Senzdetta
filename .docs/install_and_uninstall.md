@@ -1,16 +1,14 @@
-<!-- https://github.com/Zeronetsec/Zeronetsec -->
-
 # Installation
 `install.sh` optional options (can be used together):
 - `--home=<path>`
 - └── override `$HOME` value.
 - `--backup`
-- └── create a backup of the existing zeronetsec installation before replacing it.
+- └── create a backup of the existing senzdetta installation before replacing it.
 
 ### Usage
 ```bash
-git clone https://github.com/Zeronetsec/Zeronetsec
-bash Zeronetsec/install.sh <option>
+git clone https://github.com/Senzdetta/Senzdetta
+bash Senzdetta/install.sh <option>
 ```
 
 # Uninstallation
@@ -23,7 +21,5 @@ bash Zeronetsec/install.sh <option>
 ### Usage
 ```bash
 export prefix="${PREFIX:-/usr}"
-bash $prefix/opt/zeronetsec/uninstall.sh <option>
+bash $prefix/opt/senzdetta/uninstall.sh <option>
 ```
-
-<!-- Copyright (c) 2026 Zeronetsec -->

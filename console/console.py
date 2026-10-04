@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Zeronetsec
+# https://github.com/Senzdetta/Senzdetta
 
 import os
 import glob
@@ -62,4 +62,4 @@ def execute(args):
     else:
         InvalidOption.execute(input_flag)
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

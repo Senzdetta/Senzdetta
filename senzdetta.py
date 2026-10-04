@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# https://github.com/Zeronetsec/Zeronetsec
+# https://github.com/Senzdetta/Senzdetta
 
 import sys
 from console import console
@@ -11,4 +11,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

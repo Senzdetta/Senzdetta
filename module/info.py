@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Zeronetsec
+# https://github.com/Senzdetta/Senzdetta
 
 import requests
 import sys
@@ -74,4 +74,4 @@ class Info:
             )
             sys.exit(1)
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

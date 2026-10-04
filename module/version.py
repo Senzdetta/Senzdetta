@@ -1,18 +1,18 @@
-# https://github.com/Zeronetsec/Zeronetsec
+# https://github.com/Senzdetta/Senzdetta
 
 from utils.color import Color
 
 class Version:
     @staticmethod
     def execute(*args):
-        name = "Zeronetsec"
+        name = "Senzdetta"
         version = "v0.1.04102026"
-        creator = "Zeronetsec"
-        homepage = "https://github.com/Zeronetsec/Zeronetsec"
+        creator = "Senzdetta"
+        homepage = "https://github.com/Senzdetta/Senzdetta"
 
         print(f"{Color.N}Name: {Color.GG}{name}{Color.N}")
         print(f"{Color.N}Version: {Color.GG}{version}{Color.N}")
         print(f"{Color.N}Creator: {Color.GG}{creator}{Color.N}")
         print(f"{Color.N}Homepage: {Color.GG}{homepage}{Color.N}")
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

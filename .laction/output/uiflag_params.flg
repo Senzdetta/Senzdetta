@@ -3,7 +3,7 @@ echo -e 'Iflags:
     \x1b[1;90m* \x1b[0;32m--home=<path>\x1b[0m
     \x1b[1;90m└── \x1b[0;37moverride $HOME value.\x1b[0m
     \x1b[1;90m* \x1b[0;32m--backup\x1b[0m
-    \x1b[1;90m└── \x1b[0;37mcreate a backup of the existing zeronetsec installation before replacing it.\x1b[0m
+    \x1b[1;90m└── \x1b[0;37mcreate a backup of the existing senzdetta installation before replacing it.\x1b[0m
 
 Uflags:
 \x1b[0;32muninstall.sh \x1b[0moptional options (can be used together):

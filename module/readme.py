@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Zeronetsec
+# https://github.com/Senzdetta/Senzdetta
 
 import os
 import subprocess
@@ -43,4 +43,4 @@ class Readme:
             )
             sys.exit(1)
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

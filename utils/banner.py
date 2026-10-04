@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Zeronetsec
+# https://github.com/Senzdetta/Senzdetta
 
 import os
 import sys
@@ -28,4 +28,4 @@ class Banner:
             print(f"{Color.R}[!] {Color.N}File: {Color.GG}{file_path} {Color.N}not found!")
             sys.exit(1)
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta
