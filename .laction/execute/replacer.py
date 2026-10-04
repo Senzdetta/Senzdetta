@@ -7,7 +7,7 @@ project_root = ROOT_DIR.parent.parent
 
 readme_path = project_root / "README.md"
 
-old_url = "https://raw.githubusercontent.com/Zeronetsec/Zeronetsec/main/.gitaction/github-snake-tokyonight.svg"
+old_url = "https://raw.githubusercontent.com/Senzdetta/Senzdetta/main/.gitaction/github-snake-tokyonight.svg"
 new_path = ".gitaction/github-snake-tokyonight.svg"
 
 try:

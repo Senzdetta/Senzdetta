@@ -8,10 +8,10 @@ from utils.color import Color
 class Info:
     @staticmethod
     def execute(*args):
-        url = "https://api.github.com/users/Zeronetsec"
+        url = "https://api.github.com/users/Senzdetta"
         headers = {
             "Accept": "application/vnd.github.v3+json",
-            "User-Agent": "https://github.com/Zeronetsec/Zeronetsec",
+            "User-Agent": "https://github.com/Senzdetta/Senzdetta",
         }
 
         try:

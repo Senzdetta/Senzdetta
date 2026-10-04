@@ -23,7 +23,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: Zeronetsec
+          github_user_name: Senzdetta
           outputs: |
             .gitaction/github-snake.svg
             .gitaction/github-snake-dark.svg?palette=github-dark

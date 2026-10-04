@@ -14,7 +14,7 @@ class Help:
         Banner.execute()
         Birthday.execute()
 
-        print(f"{Color.N}Usage: {Color.GG}zeronetsec {Color.CC}<option> [<args>]{Color.N}")
+        print(f"{Color.N}Usage: {Color.GG}senzdetta {Color.CC}<option> [<args>]{Color.N}")
         print()
         print(f"{Color.N}Available options:")
 
