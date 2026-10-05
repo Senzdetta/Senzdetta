@@ -23,7 +23,7 @@ I don't really care about **"industry standards"**. </br>
 
 ## Contribution Graph
 <a href="README_REPO_MODE.md">
-    <img src=".gitaction/github-snake-tokyonight.svg" width="300" />
+    <img src=".gitaction/github-snake-tokyonight.svg" width="300" /> </br>
     <img src=".gif/2.gif" width="80" /> </br>
 </a>
 
