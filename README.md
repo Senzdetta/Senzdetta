@@ -18,15 +18,14 @@ I enjoy building my own custom CLI tools—nothing fancy, just simple stuff that
 I don't really care about **"industry standards"**. </br>
 
 ## GitHub Stats
-<img src="https://github-readme-stats-beta-ten-76.vercel.app/api?username=Senzdetta&show_icons=true&theme=tokyonight" width="300" />
+<img src="https://github-readme-stats-beta-ten-76.vercel.app/api?username=Senzdetta&show_icons=true&rank_icon=github&theme=tokyonight" width="300" />
 <img src="https://github-readme-stats-beta-ten-76.vercel.app/api/top-langs?username=Senzdetta&locale=en&hide_title=false&hide_border=false&layout=compact&card_width=395&langs_count=999&theme=tokyonight" width="300" />
 
 ## Contribution Graph
-<img src=".gitaction/github-snake-tokyonight.svg" width="300" />
-
 <a href="README_REPO_MODE.md">
+    <img src=".gitaction/github-snake-tokyonight.svg" width="300" />
     <img src=".gif/2.gif" width="80" /> </br>
 </a>
-<code>“Still running, still learning...”</code>
 
+<code>“Still running, still learning...”</code>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer" width="100%" />
