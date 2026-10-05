@@ -1,3 +1,4 @@
+.vscode/
 .devphase/
 __pycache__/
 *.pyc
