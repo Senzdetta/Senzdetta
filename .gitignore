@@ -1,3 +1,4 @@
 .devphase/
 __pycache__/
 *.pyc
+.gpforce
