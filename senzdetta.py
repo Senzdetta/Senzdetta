@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+{{ shebang::python3 }}
 # https://github.com/Senzdetta/Senzdetta
 
 import sys

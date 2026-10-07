@@ -40,6 +40,7 @@ include : '(
     .install/zsymlink
     .install/extern/pip_inpackages
     .install/extern/glow_install
+    .install/extern/set_shebang
 )'
 
 HOME="${HOME}"
