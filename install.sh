@@ -39,6 +39,7 @@ include : '(
     .install/symlink
     .install/zsymlink
     .install/extern/pip_inpackages
+    .install/extern/glow_install
 )'
 
 HOME="${HOME}"
@@ -54,6 +55,7 @@ done
 
 install::inpackages
 install::extern::pipInpackages
+install::extern::glowInstall
 install::prepdir
 install::backup
 install::postins
