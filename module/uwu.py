@@ -16,6 +16,7 @@ class Uwu:
             "(=^･ω･^=)",
         ]
 
+        fixface = "(・ω・)"
         delay = 0.2
         duration = 5
 
@@ -33,8 +34,7 @@ class Uwu:
                     sys.stdout.flush()
                     time.sleep(delay)
         finally:
-            sys.stdout.write("\x1b[?25h")
-            sys.stdout.write("\n")
+            sys.stdout.write(f"\r{fixface}\x1b[K\x1b[?25h\n")
             sys.stdout.flush()
 
 # Copyright (c) 2026 Senzdetta
