@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Cybersecurity-Hobbyist-blue?style=square&logo=kalilinux&logoColor=0099ff&v=1" width="133" />
     <img src="https://img.shields.io/badge/Android-Tweakers-blue?style=square&logo=android&v=1" width="110" />
     </br></br>
-    <img src="https://count.getloli.com/get/@Senzdetta?theme=booru-lewd&v=1" width="225" />
+    <img src="https://count.getloli.com/get/@Senzdetta?theme=booru-lewd" width="225" />
     </br></br>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&background=1A1B26&center=true&vCenter=true&width=600&lines=Learning+to+code+starting+from%3A+2025-09-29" width="279" />
 </div>
