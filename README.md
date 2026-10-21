@@ -24,7 +24,7 @@ I don't really care about **"industry standards"**. </br>
 ## Account Association
 <table>
   <tr>
-    <td align="center" width="15" valign="top">
+    <td align="center" width="10" valign="top">
       <a href="https://github.com/Senzdetta">
         <img src="https://avatars.githubusercontent.com/u/235034757?v=4" width="50" /></br>
         <sub><b>Senzdetta</b></sub>
@@ -35,7 +35,7 @@ I don't really care about **"industry standards"**. </br>
       </details>
     </td>
     <td width="10"></td>
-    <td align="center" width="15" valign="top">
+    <td align="center" width="10" valign="top">
       <a href="https://github.com/Zeronetsec">
         <img src="https://avatars.githubusercontent.com/u/337641103?v=4" width="50" /></br>
         <sub><b>Zeronetsec</b></sub>
@@ -46,7 +46,7 @@ I don't really care about **"industry standards"**. </br>
       </details>
     </td>
     <td width="10"></td>
-    <td align="center" width="15" valign="top">
+    <td align="center" width="10" valign="top">
       <a href="https://github.com/Arespack">
         <img src="https://avatars.githubusercontent.com/u/338632159?v=4" width="50" /></br>
         <sub><b>Arespack</b></sub>
