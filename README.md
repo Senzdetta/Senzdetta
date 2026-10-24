@@ -26,7 +26,7 @@ I don't really care about **"industry standards"**. </br>
   <tr>
     <td align="center" width="10" valign="top">
       <a href="https://github.com/Senzdetta">
-        <img src="https://avatars.githubusercontent.com/u/235034757?v=4" width="50" /></br>
+        <img src="https://avatars.githubusercontent.com/u/235034757?v=4" width="38" /></br>
         <sub><b>Senzdetta</b></sub>
       </a>
       <details>
@@ -37,7 +37,7 @@ I don't really care about **"industry standards"**. </br>
     <td width="10"></td>
     <td align="center" width="10" valign="top">
       <a href="https://github.com/Zeronetsec">
-        <img src="https://avatars.githubusercontent.com/u/337641103?v=4" width="50" /></br>
+        <img src="https://avatars.githubusercontent.com/u/337641103?v=4" width="38" /></br>
         <sub><b>Zeronetsec</b></sub>
       </a>
       <details>
@@ -48,7 +48,7 @@ I don't really care about **"industry standards"**. </br>
     <td width="10"></td>
     <td align="center" width="10" valign="top">
       <a href="https://github.com/Arespack">
-        <img src="https://avatars.githubusercontent.com/u/338632159?v=4" width="50" /></br>
+        <img src="https://avatars.githubusercontent.com/u/338632159?v=4" width="38" /></br>
         <sub><b>Arespack</b></sub>
       </a>
       <details>
