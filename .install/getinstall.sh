@@ -17,8 +17,7 @@ function install::getinstall() {
         echo -e " ${color_DG}- ${color_N}exit: ${color_GG}${status}${color_N}"
     else
         echo -e " ${color_DG}- ${color_N}error: ${color_R}${status}${color_N}"
-        echo -e "${color_N}${error_msg}${color_N}" | \
-            command sed 's/^/    /'
+        echo -e "${color_N}${error_msg}${color_N}"
     fi
 
     return ${status}

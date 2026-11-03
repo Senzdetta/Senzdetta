@@ -6,7 +6,7 @@ class Version:
     @staticmethod
     def execute(*args):
         name = "Senzdetta"
-        version = "v0.1.20261025"
+        version = "v0.1.20261103"
         developer = "Senzdetta"
         homepage = "https://github.com/Senzdetta/Senzdetta"
 
